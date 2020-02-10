@@ -1,0 +1,27 @@
+#*What-I-Learn-Week-3*#
+________
+##*Calc-you-later*##
+###Objectives
+* Convert strings to numbers.
+* Separate your logic from your interface.
+________
+##*Fooling-with-boolean*##
+### What I Learn
+* You'll be flexing your value-returning `function` muscles.
+* And you'll be trying your hand at:
+  * Literal `boolean` values.
+  * The unary `not` operator (`!`).
+  * The binary `boolean` operators (`&&` and `||`).
+________
+##*Fizzy*##
+### What I Learn 
+* Full-featured functions (parameters and return values).
+* `if-else` statements.
+* Modulus operations.
+________
+##*If-Learning*##
+* Full functions, with return values and parameters and the whole shebang.
+* Basic booleans.
+* Comparison operators (`===`, `>`, etc.).
+* `if` and `if-else`.
+_______
