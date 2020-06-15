@@ -13,15 +13,19 @@ ________
   * The unary `not` operator (`!`).
   * The binary `boolean` operators (`&&` and `||`).
 ________
-##*Fizzy*##
-### What I Learn 
-* Full-featured functions (parameters and return values).
-* `if-else` statements.
-* Modulus operations.
+##*Twolean - Boolean Comparisons*##
+* Write a function called moreThan5 that takes in a number and returns whether or not it's greater than 5.
+* Write a function called isFailing that takes in a grade (as a number) and returns whether or not it's below 60.
+* Write a function called isMiddleSchoolTeacher that takes in a role (as a string) and a level (as a number) and returns whether they're both a teacher and the level they teach at is 6 to 8 inclusive.
+
 ________
-##*If-Learning*##
-* Full functions, with return values and parameters and the whole shebang.
-* Basic booleans.
-* Comparison operators (`===`, `>`, etc.).
-* `if` and `if-else`.
+##*Intitialsizer*##
+* Steps
+1. Call getInput TWICE to get the first name and the last name. See the extensive comments in main.js on how to use this pre-written helper function. Store the return values in variables.
+2. Create a function to get initials. It should take in two strings (a first name and a last name) and return one string with initials. Manually test it with the following inputs:
+3. Call that function, passing in the user's inputs from step 1. Store the result in a variable.
+4. Calculate the combined length of the first name and the second name. For example, for 'Colin' and 'Jaffe', we should get 10. Store that in another variable.
+5. Create a message that follows the format from the output outlined in the Workflow section. Store that message string in a variable.
+5. Pass that string into console.log to print out your result.
+6. Test your app by calling it with node/nodemon.
 _______
